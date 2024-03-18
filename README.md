@@ -8,7 +8,7 @@ Ensure you have the following installed:
 - Node.js/npm (npm at least version `18.16.0`).
 
 ## Installation
-
+Create `.env` file and set up `REACT_APP_OPENAI_API_KEY=`
 To set up the AI Chat and Image App, follow these steps:
 
 1. Clone the repository:
