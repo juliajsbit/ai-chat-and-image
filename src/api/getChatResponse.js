@@ -1,7 +1,7 @@
 import axios from "axios";
 
-//const apiKey = process.env.REACT_APP_OPENAI_API_KEY;
-const apiKey = "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";
+const apiKey = process.env.REACT_APP_OPENAI_API_KEY;
+
 export const getChatGPTResponse = async (promptText) => {
   try {
     const data = {

@@ -28,9 +28,7 @@ function ChatInterface() {
       "generate picture",
       "show me an image",
     ];
-    const isImageRequest = imageRequestTriggers.some((trigger) =>
-      userMessage.toLowerCase().includes(trigger)
-    );
+    const isImageRequest = imageRequestTriggers.some((trigger) => userMessage.toLowerCase().includes(trigger));
 
     setMessages((messages) => [
       ...messages,
