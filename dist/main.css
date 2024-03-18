@@ -1,0 +1,118 @@
+/*!***************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/components/ChatInterface.module.scss ***!
+  \***************************************************************************************************************************************************************/
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #191410;
+  color: white;
+  font-family: "Arial", sans-serif;
+}
+
+#ghkuxHdQ6Vm4ASKiGinC {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.Feb9counrdBB3deMDsqf {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  max-width: 1200px;
+  height: 100%;
+  margin: auto;
+  position: relative;
+}
+
+.Vtmg5rnJ95HEFnGYky4r {
+  display: flex;
+  flex-direction: column;
+  background-color: #242424;
+  overflow-y: auto;
+  border-radius: 10px;
+  margin-bottom: 60px;
+  margin-top: 10px;
+  min-height: calc(100vh - 70px);
+  padding: 10px;
+}
+
+.ntn9T7_Zd8vngZoOWmLk {
+  padding: 10px 20px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  max-width: 80%;
+  word-wrap: break-word;
+  clear: both;
+}
+
+.ntn9T7_Zd8vngZoOWmLk.iq7oNml8U3hG4krbh6KP {
+  background-color: #4a4a4a;
+  margin-left: 10px;
+  margin-right: auto;
+}
+
+.ntn9T7_Zd8vngZoOWmLk.BUHivF2H_L7dVy4MJpi8 {
+  background-color: #0077b3;
+  color: white;
+  margin-right: 10px;
+  margin-left: auto;
+  float: none;
+}
+
+.zqwrEXIcyoaAAsE7_ACN {
+  position: fixed;
+  bottom: 0;
+  left: 15%;
+  right: 15%;
+  background-color: #191410;
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  border-radius: 0 0 10px 10px;
+  z-index: 10;
+}
+
+.uprOMcPhQIq4sWhmFqpY {
+  flex-grow: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 20px;
+  margin-right: 10px;
+  resize: vertical;
+  line-height: 1.5;
+  font-size: 16px;
+  max-height: 200px;
+}
+
+.uprOMcPhQIq4sWhmFqpY:focus {
+  outline: none;
+}
+
+.gU32liehmxawrPf_yvqe {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  background-color: #006699;
+  color: white;
+  cursor: pointer;
+}
+
+.gU32liehmxawrPf_yvqe:hover {
+  background-color: #006699;
+}
+
+/* Custom scrollbar styles */
+.OWNd_92WG_D1TXjkCkpw::-webkit-scrollbar {
+  height: 8px;
+}
+
+.OWNd_92WG_D1TXjkCkpw::-webkit-scrollbar-thumb {
+  background-color: #006699;
+  border-radius: 4px;
+}
+
+.OWNd_92WG_D1TXjkCkpw::-webkit-scrollbar-track {
+  background-color: #006699;
+}
